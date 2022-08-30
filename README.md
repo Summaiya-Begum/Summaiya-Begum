@@ -1,8 +1,10 @@
+<!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io) -->
+![](https://user-images.githubusercontent.com/61030079/90903197-e2bc1800-e3cd-11ea-8586-e605b0139c38.gif)
 <h1 align="center">Hi 👋, I'm Summaiya Begum</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=summaiya-begum&label=Profile%20views&color=0e75b6&style=flat" alt="summaiya-begum" /> </p>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
 - 🔭 I’m currently working on **Gusto**
 
 - 🌱 I’m currently learning **ReactJS, Chakra-UI, NodeJS,etc**
