@@ -1,5 +1,6 @@
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io) -->
-![](https://user-images.githubusercontent.com/61030079/90903197-e2bc1800-e3cd-11ea-8586-e605b0139c38.gif)
+
+![]( https://i.imgur.com/T59f5r7.png)
 <h1 align="center">Hi 👋, I'm Summaiya Begum</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
