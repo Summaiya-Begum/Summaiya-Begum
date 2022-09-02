@@ -4,8 +4,8 @@
 <h1 align="center">Hi 👋, I'm Summaiya Begum</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://imgur.com/9SPS5wU" alt="summaiya-begum" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
+<p align="left"> <img src="" alt="summaiya-begum" /> </p>
+<img align="right" alt="Coding" width="400" src=""
 - 🔭 I’m currently working on **Gusto**
 
 - 🌱 I’m currently learning **ReactJS, Chakra-UI, NodeJS,etc**
