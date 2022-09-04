@@ -1,12 +1,15 @@
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io) -->
 
-![]( https://i.imgur.com/T59f5r7.png)
+<!--![Banner]( https://i.imgur.com/T59f5r7.png)-->
+<img height="300px" width="100%" src="https://i.imgur.com/T59f5r7.png">
 <h1 align="center">Hi 👋, I'm Summaiya Begum</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="" alt="summaiya-begum" /> </p>
-<img align="right" alt="Coding" width="400" src=""
+<h3 align="center">A passionate frontend developer from India</h3>
+<img align='right' src="https://miro.medium.com/max/1050/1*qdAW1TjCN57h1lbuuzvchg.gif" width="230">
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 - 🔭 I’m currently working on **Gusto**
+
 
 - 🌱 I’m currently learning **ReactJS, Chakra-UI, NodeJS,etc**
 
