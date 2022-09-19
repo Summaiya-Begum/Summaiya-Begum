@@ -1,7 +1,4 @@
-<!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io) -->
 
-<!--![Banner]( https://i.imgur.com/T59f5r7.png)-->
-<img height="300px" width="100%" src="https://i.imgur.com/T59f5r7.png">
 <h1 align="center">Hi 👋, I'm Summaiya Begum</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
