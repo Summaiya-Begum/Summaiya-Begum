@@ -5,10 +5,9 @@
 <img align='right' src="https://miro.medium.com/max/1050/1*qdAW1TjCN57h1lbuuzvchg.gif" width="230">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-- 🔭 I’m currently working on **Gusto**
+- 🌱 I’m pursuing Full Stack Web Development with **ReactJS, Chakra-UI, NodeJS, Data structures and Algorithms etc**
 
-
-- 🌱 I’m currently learning **ReactJS, Chakra-UI, NodeJS,etc**
+- 🔭 I’m currently working on backend technologies like **ExpressJS**, **MongoDB**, **JWT**, **Mongoose**, etc.
 
 - 💬 Talks about **React, Web-Design, Web-Development**
 
