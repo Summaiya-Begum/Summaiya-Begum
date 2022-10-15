@@ -65,16 +65,12 @@
 
 
 <br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=summaiya-begum&theme=dracula&hide_border=true" alt="summaiya-begum"/></p>
 <p >
             <a href="https://github.com/Summaiya-Begum/github-readme-stats"><img alt="Summaiya-Begum's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Summaiya-Begum&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
           </p>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=summaiya-begum&show_icons=true&locale=en&layout=compact" alt="summaiya-begum" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=summaiya-begum&show_icons=true&locale=en" alt="summaiya-begum" /></p> -->
 
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=summaiya-begum&" alt="summaiya-begum" /></p> -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=summaiya-begum&theme=dracula&hide_border=true" alt="summaiya-begum"/></p>
 
 <img alt="Summaiya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Summaiya-Begum&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
