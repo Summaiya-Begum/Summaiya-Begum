@@ -5,7 +5,7 @@
 <img align='right' src="https://miro.medium.com/max/1050/1*qdAW1TjCN57h1lbuuzvchg.gif" width="230">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-- 🌱 I’m pursuing Full Stack Web Development with **ReactJS, Chakra-UI, NodeJS, Data structures and Algorithms etc**
+- 🌱 I’m pursuing Full Stack Web Development with **ReactJS, Chakra-UI, NodeJS, Data structures and Algorithms etc.**
 
 - 🔭 I’m currently working on backend technologies like **ExpressJS**, **MongoDB**, **JWT**, **Mongoose**, etc.
 
@@ -19,7 +19,7 @@
 
 
 
-- ⚡ Fun fact **I think good in singing**
+- ⚡ Fun fact **I think I'm good in singing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
