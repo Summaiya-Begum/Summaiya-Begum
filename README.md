@@ -17,8 +17,6 @@
 
 
 
-
-
 - ⚡ Fun fact **I think I'm good in singing**
 
 <h3 align="left">Connect with me:</h3>
