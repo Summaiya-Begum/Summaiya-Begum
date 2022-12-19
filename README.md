@@ -32,7 +32,7 @@
 <br/>
 <br/>
 
-<h3>My Github Statistics </h3>
+# 📊 My Github Statistics :
 
 <!-- contributions  -->
 <!-- <img  src="https://github-readme-stats.vercel.app/api?username=summaiya-begum&&show_icons=true&theme=radical"/> -->
