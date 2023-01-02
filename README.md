@@ -56,4 +56,4 @@
 
 
 
-[![](https://visitcount.itsvg.in/api?id=summaiya-begum&icon=0&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=summaiya-begum&label=Profile%20Views%20&color=10&pretty=true)](https://visitcount.itsvg.in)
