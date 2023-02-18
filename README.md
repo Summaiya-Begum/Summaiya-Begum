@@ -1,8 +1,13 @@
  
 <h1 align="center">Hi 👋, I'm Summaiya Begum</h1>
+<p align="center">
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=E1391A&vCenter=true&width=500&lines=Hello%2CI'm++Summaiya+Begum;Frontend+Developer"/></p>
 
 <h3 align="center">A passionate MERN full stack developer from India</h3>
 <img align='right' src="https://miro.medium.com/max/1050/1*qdAW1TjCN57h1lbuuzvchg.gif" width="230">
+
+[![](https://visitcount.itsvg.in/api?id=summaiya-begum&label=Profile%20Views%20&color=10&pretty=true)](https://visitcount.itsvg.in)
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 - 🌱 I have completed Full Stack Web Development with **HTML, CSS, Javascript, ReactJS, NodeJS, ExpressJS, MongoDB, JWT, Mongoose, Chakra-UI, Data structures and Algorithms etc.**
@@ -56,4 +61,4 @@
 
 
 
-[![](https://visitcount.itsvg.in/api?id=summaiya-begum&label=Profile%20Views%20&color=10&pretty=true)](https://visitcount.itsvg.in)
+
