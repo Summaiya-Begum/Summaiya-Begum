@@ -10,7 +10,7 @@
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-- 🌱 I have completed Full Stack Web Development with **HTML, CSS, Javascript, ReactJS, NodeJS, ExpressJS, MongoDB, JWT, Mongoose, Chakra-UI, Data structures and Algorithms etc.**
+- 🌱 I have completed Full Stack Web Development with **HTML, CSS, Javascript, ReactJS, NodeJS, ExpressJS, MongoDB, JWT, Mongoose, GitLab, Tailwind, Chakra-UI, Data structures and Algorithms etc.**
 
 - 🔭 I’m currently working on backend technologies like  etc.
 
